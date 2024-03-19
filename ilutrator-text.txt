@@ -1,0 +1,41 @@
+Apresentação Do Projeto
+
+*Projeto é divido em duas partes
+
+Container Engloba conteúdo
+
+#Parte 1 do Projeto
+
+*um video sem audio como plano de fundo
+
+*uma imagem centralizada no meio com uma
+borda linear de fundo 
+
+*nome da pessoa com uma tarja linear em baixo
+*ao lado do nome terá um icone de verificação 
+
+*Lista de items com as redes sociais dessa pessoa
+uma logo de cada rede social ao lado desse conteúdo
+
+*mutação de elementos ao mouse passar em cima deles
+eles mudarão a cor de fundo 
+
+*Link de destino fora da página assim que clicado 
+ele redicionara para uma nova página de rede social
+
+#Fim da parte 1
+
+
+#Parte 2 do projeto
+
+*imagem de fundo fixada com efeito parallax
+
+*conteúdo centralizado ao meio 
+
+*Tabela Zebrada com as estátiscas da pessoa
+
+*icones de times ao lado do conteúdo 
+
+#Fim da parte 2
+
+Fim da Apresentação do projeto
